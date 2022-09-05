@@ -1,0 +1,84 @@
+@media (max-width: 1199.98px) { 
+	.navbar-brand img {
+    	margin: 0px 12px 0px 14px;
+	}
+	.main-menu .nav-item .btn-primary {
+    	font-size: 13px;
+	}
+	.main-menu .navbar .nav-item .nav-link {
+	    margin-right: 23px;
+	}
+	.blog-title h2 {
+    	margin: 0 201px;
+	}
+	.document-text-fast {
+    	margin-top: 8px;
+	}
+	.document-img-fast img {
+    	margin-top: -51px;
+	}
+	.document-text-fast h2 {
+    	margin-bottom: 10px;
+	}
+	.document-text-fast p {
+	    margin-bottom: 10px;
+	    line-height: 22px;
+	}
+	.footer-third-text p {
+    	font-size: 13px;
+	}
+}
+
+@media (max-width: 991.98px) {
+	.main-menu .navbar-collapse{
+		position: absolute;
+	}
+	.banner-text h1 {
+	    margin-right: 34px;
+	    margin-bottom: 15px;
+	}
+	.banner-text button {
+    	margin-right: 10px;
+	}
+	.banner-text a {
+	    font-size: 13px;
+	}
+	.blog-title h2 {
+    	margin: 0 81px;
+	}
+	.blog-box img {
+    	margin-left: -20px;
+	}
+	.blog-box-last {
+    	margin-top: 107px;
+	}
+	.woo-text h2 {
+    	font-size: 27px;
+	}
+	.fast-footer i {
+    	font-size: 18px;
+	}
+	.fast-footer p {
+	    margin-left: 0px;
+	    font-size: 13px;
+	}
+}
+
+@media (max-width: 767.98px) {
+	
+}
+
+@media (max-width: 575.98px) {
+	.blog-title h2 {
+    	margin: 0 0;
+	}
+	.owner-title h2 {
+    	font-size: 35px;
+	}
+	.blog-title h2 {
+    	font-size: 41px;
+	}
+	.woo-text h2 {
+    	font-size: 25px;
+	}
+}
